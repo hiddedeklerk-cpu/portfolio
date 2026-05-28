@@ -10,8 +10,7 @@ project then extends to a Berry (1992) simulation framework incorporating
 firm heterogeneity to estimate the expected number of market entrants.
 
 This was submitted as coursework for the Empirical Industrial Organisation 
-module (ECONM0013) at the University of Bristol, achieving a mark of 100% 
-(80% of the module).
+module (ECONM0013) at the University of Bristol, achieving a mark of 100%.
 
 ## Key Findings
 - MLE estimates are almost identical across MATLAB and Stata implementations,
