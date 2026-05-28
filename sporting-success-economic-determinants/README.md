@@ -1,18 +1,9 @@
 # What Drives International Sporting Success?
 
 ## Overview
-Why do some countries consistently dominate global sport while others 
-struggle to make a name for themselves? This project investigates how 
-economic strength relates to international sporting success. Bernard and 
-Busse (2004) showed that GDP per capita, population and hosting are strong 
-predictors of Olympic success. Building on their findings, this analysis 
-extends to the seven most recent Summer Olympic Games (2000–2024) and 
-examines whether similar effects are found in international football using 
-FIFA World Rankings. A Poisson model is then used to predict medal counts 
-for the Paris 2024 Olympics.
+Why do some countries consistently dominate global sport while others struggle to make a name for themselves? This project investigates how economic strength relates to international sporting success. Bernard and Busse (2004) showed that GDP per capita, population and hosting are strong predictors of Olympic success. Building on their findings, this analysis extends to the seven most recent Summer Olympic Games (2000–2024) and examines whether similar effects are found in international football using FIFA World Rankings. A Poisson model is then used to predict medal counts for the Paris 2024 Olympics.
 
-This was submitted as coursework for the Econometrics with Python module 
-(ECONM0014) at the University of Bristol, achieving a mark of 78%.
+This was submitted as coursework for the Econometrics with Python module (ECONM0014) at the University of Bristol, achieving a mark of 78%.
 
 ## Key Findings
 - Economic strength is a significant predictor of both Olympic medal counts
