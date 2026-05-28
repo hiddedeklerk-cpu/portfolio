@@ -33,8 +33,7 @@ market responses to the Brexit referendum. Examines why some firms were
 affected more than others using econometric methods in Stata.
 
 ## Technical Skills
-- **Languages:** Python, R, MATLAB, Stata, SQL
+- **Languages:** Python, R, MATLAB, STATA
 - **Methods:** Time series analysis, maximum likelihood estimation, 
 financial econometrics, machine learning, structural modelling, 
 Poisson regression
-- **Tools:** Excel, Power BI
