@@ -34,13 +34,8 @@ via Robinson (1995)), challenging the strict I(1) assumption
 - Diagnostic checks: serial correlation, normality, ARCH effects
 
 ## Files
-- `ecb_vecm_analysis.R` — main R script covering data preparation, unit 
-root tests, Johansen cointegration, VECM estimation and impulse response 
-functions
-- `fractional_cointegration.do` — Stata do-file implementing the Robinson 
-(1995) long memory test
-- `ecb_monetary_policy_vecm.pdf` — full write-up including results and 
-discussion
+- `ecb_monetary_policy_vecm.pdf` — full write-up including methodology, 
+results, discussion and all code
 
 ## Tools
 R (xts, urca, vars), Stata
