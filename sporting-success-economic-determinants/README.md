@@ -9,8 +9,10 @@ This analysis shows that economic strength plays a key role in international spo
 However, causal conclusions cannot be drawn from these results. The models likely suffer from endogeneity arising from omitted variables (such as sports investment, cultural priorities or domestic league strength), some of which may also have some simultaneity with sporting success. This explains why countries such as Curaçao in football or India at the Olympics perform very differently from what the models predict.
 
 ## Methodology
-
+- OLS Regression
+- Poisson Regression
 
 ## Files
+
 
 ## Tools
