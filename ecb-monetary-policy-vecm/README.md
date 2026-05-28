@@ -38,4 +38,4 @@ via Robinson (1995)), challenging the strict I(1) assumption
 results, discussion and all code
 
 ## Tools
-R (xts, urca, vars), Stata
+R (xts, urca, vars), STATA
