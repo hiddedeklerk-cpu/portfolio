@@ -41,4 +41,4 @@ fast food duopoly
 results, simulation and all code
 
 ## Tools
-MATLAB, Stata
+MATLAB, STATA
