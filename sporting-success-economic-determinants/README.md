@@ -15,7 +15,7 @@ However, causal conclusions cannot be drawn from these results. The models likel
 - Poisson Regression
 
 ## Files
-- 'sporting-success-economic-determinants.zip' - includes Python Script, Final Dataset and Image used
+- `sporting-success-economic-determinants.zip` - includes Python Script, Final Dataset and Image used
 
 ## Tools
 Python
